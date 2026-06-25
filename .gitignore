@@ -3,3 +3,6 @@ dist
 .DS_Store
 *.local
 .vercel
+
+# Local Claude Code config (machine-specific)
+.claude/
